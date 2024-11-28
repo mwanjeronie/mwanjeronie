@@ -1,5 +1,7 @@
-## Hi there 👋
-![tn2](https://github.com/user-attachments/assets/7a71f6ff-5e40-4878-8075-23e9d253f9f2)
+## Who am I, you may ask?
+![thumb nail 1](https://github.com/user-attachments/assets/e765b365-5cb9-42f7-922b-0d35b6c17568)
+I'M HIM
+
 
 <!--
 **mwanjeronie/mwanjeronie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
