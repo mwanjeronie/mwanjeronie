@@ -1,4 +1,6 @@
-## Who am I, you may ask?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+randomly+sow+this+some+where+;i+said+wow+%2C+how+did+they+do+that+;i+figured+it+out+expect+;i+have+nothing+really+to+say)](https://git.io/typing-svg)
+
+
 ![thumb nail 1](https://github.com/user-attachments/assets/e765b365-5cb9-42f7-922b-0d35b6c17568)
  
  I'M HIM
