@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full-stack+developer+in+the+making.+;I'm+mostly+self-taught%2C+and+I'm+always+learning.;I'm+currently+learning+the+MERN+stack;%3C---Node.js--React.js---%3E;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+full-stack+developer;in+the+making.;I'm+mostly+self-taught%2C+and+;I'm+always+learning.;I'm+currently+learning+;React%2C+Node.js%2C)](https://git.io/typing-svg)
 
 ![thumb nail 1](https://github.com/user-attachments/assets/e765b365-5cb9-42f7-922b-0d35b6c17568)
  
